@@ -26,6 +26,9 @@ for country size.
 A dual-panel visualization combining a stacked area chart (continental shares) and a line chart 
 (selected major emitters per continent). Country-to-continent mapping was handled via the 
 `pycountry` library.
+For more details on the methodologies, see the [report](https://github.com/leonardoy99/EDGAR/blob/main/Report_YANG.pdf).
+
+
 
 ## Key Findings
 
