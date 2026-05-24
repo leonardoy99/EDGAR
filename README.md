@@ -1,7 +1,15 @@
 # GHG Emissions Analysis — EDGAR Dataset
 
 A data analysis and visualization project built on the EDGAR 2024 GHG emissions dataset. 
-The notebook reproduces three charts summarizing global greenhouse gas emission trends from 1970 to 2023.
+The [EDGAR.ipynb](https://github.com/leonardoy99/EDGAR/blob/main/EDGAR.ipynb) notebook reproduces three charts summarizing global greenhouse gas emission trends from 1970 to 2023.
+
+## Repository structure
+
+- `EDGAR.ipynb` — main notebook with data processing and visualizations
+- `data/` — raw input datasets in xlsx format
+- `Report_YANG.pdf` — results and methodology writeup
+- `pyproject.toml` — project dependencies
+
 
 ## Overview
 
