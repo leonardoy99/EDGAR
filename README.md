@@ -8,8 +8,6 @@ The [EDGAR.ipynb](https://github.com/leonardoy99/EDGAR/blob/main/EDGAR.ipynb) no
 - `EDGAR.ipynb` — main notebook with data processing and visualizations
 - `data/` — raw input datasets in xlsx format
 - `Report_YANG.pdf` — results and methodology writeup
-- `pyproject.toml` — project dependencies
-
 
 ## Overview
 
